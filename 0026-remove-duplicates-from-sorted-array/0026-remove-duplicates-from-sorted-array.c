@@ -5,13 +5,11 @@ int removeDuplicates(int* nums, int numsSize) {
 
     for(int j = 1; j < numsSize; j++) {
 
-        if(nums[i] != nums[j]) {
-
-            i++;
-            nums[i] = nums[j];
+       if(nums[i] != nums[j])  {
+        i++;
+        (nums[i] = nums[j]);
         }
-    }
-
-    return i + 1;
+       }
+        
+    return i+1;
 }
- 
