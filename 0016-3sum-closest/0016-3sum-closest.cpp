@@ -26,7 +26,10 @@ public:
                 else if(sum > target) {
                     right--;
                 }
-               
+                else {
+                    return sum;
+                }
+            }
         }
 
         return closest;
