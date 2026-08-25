@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/u-harshitha007/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
