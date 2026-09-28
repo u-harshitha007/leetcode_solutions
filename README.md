@@ -1,5 +1,5 @@
  
-# LeetCode Topics
+# LeetCode Patterns
 ## Array
 |  |
 | ------- |
